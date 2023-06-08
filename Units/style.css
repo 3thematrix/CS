@@ -1,0 +1,59 @@
+:root {
+    --white: #DDDDDD;
+    --blue: #345678;
+    --black: #222222;
+    --gold: #FFD700;
+}
+
+body {
+    background: fixed;
+    background-image: url("https://singhajit.com/assets/img/posts/filter_design_pattern/cover.png");
+    background-color: var(--blue);
+}
+
+a, p, li {
+    color: var(--white);
+    width: 45ch;
+    background-color: var(--black);
+}
+
+button {
+    cursor: pointer;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-family: monospace;
+    font-size: 16px;
+    background-color: var(--white);
+}
+
+h1 {
+    font-family: serif;
+    color: var(--white);
+    text-align: center;
+    font-size: 75px;
+    background-color: var(--black);
+}
+
+h2 {
+    font-family: serif;
+    color: var(--white);
+    font-size: 50px;
+    background-color: var(--black);
+}
+
+h3, li {
+    font-family: sans-serif;
+    color: var(--white);
+    font-size: 25px;
+    background-color: var(--black);
+}
+
+button {
+    font-family: sans-serif;
+    font-size: 25px;
+}
+
+b {
+    color: var(--gold);
+    background-color: var(--black);
+}
