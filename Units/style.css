@@ -13,7 +13,7 @@ body {
 }
 
 a, p, li {
-    color: var(--white);
+    color: var(--green);
     width: 45ch;
     background-color: var(--black);
 }
@@ -24,12 +24,12 @@ button {
     margin-right: 10px;
     font-family: monospace;
     font-size: 16px;
-    background-color: var(--green);
+    background-color: var(--black);
 }
 
 h1 {
     font-family: serif;
-    color: var(--white);
+    color: var(--green);
     text-align: center;
     font-size: 75px;
     background-color: var(--black);
@@ -37,14 +37,14 @@ h1 {
 
 h2 {
     font-family: serif;
-    color: var(--white);
+    color: var(--green);
     font-size: 50px;
     background-color: var(--black);
 }
 
 h3, li {
     font-family: sans-serif;
-    color: var(--white);
+    color: var(--green);
     font-size: 25px;
     background-color: var(--black);
 }
