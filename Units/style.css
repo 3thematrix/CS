@@ -3,12 +3,13 @@
     --blue: #345678;
     --black: #222222;
     --gold: #FFD700;
+    --green: #00DD00;
 }
 
 body {
     background: fixed;
     background-image: url("https://singhajit.com/assets/img/posts/filter_design_pattern/cover.png");
-    background-color: var(--blue);
+    background-color: var(--green);
 }
 
 a, p, li {
@@ -23,7 +24,7 @@ button {
     margin-right: 10px;
     font-family: monospace;
     font-size: 16px;
-    background-color: var(--white);
+    background-color: var(--green);
 }
 
 h1 {
