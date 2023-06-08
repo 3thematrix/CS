@@ -29,7 +29,7 @@ button {
 
 h1 {
     font-family: serif;
-    color: var(--green);
+    color: var(--white);
     text-align: center;
     font-size: 75px;
     background-color: var(--black);
@@ -37,7 +37,7 @@ h1 {
 
 h2 {
     font-family: serif;
-    color: var(--green);
+    color: var(--white);
     font-size: 50px;
     background-color: var(--black);
 }
