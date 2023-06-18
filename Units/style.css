@@ -58,3 +58,7 @@ b {
     color: var(--gold);
     background-color: var(--black);
 }
+
+* {
+    border: 2px solid --green
+}
