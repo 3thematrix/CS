@@ -12,12 +12,7 @@ body {
     background-color: var(--green);
 }
 
-a {
-    color: var(--green);
-    var(--black);
-}
-
-p, li {
+a, p, li {
     color: var(--white);
     width: 45ch;
     background-color: var(--black);
