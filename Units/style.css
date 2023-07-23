@@ -12,10 +12,14 @@ body {
     background-color: var(--green);
 }
 
-a, p, li {
+p, li {
     color: var(--white);
     width: 45ch;
     background-color: var(--black);
+}
+
+a {
+    color: var(--green);
 }
 
 button {
