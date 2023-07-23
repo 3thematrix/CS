@@ -6,6 +6,10 @@
     --green: #00DD00;
 }
 
+* {
+    padding-left: 16px
+}
+
 body {
     background: fixed;
     background-image: url("https://singhajit.com/assets/img/posts/filter_design_pattern/cover.png");
