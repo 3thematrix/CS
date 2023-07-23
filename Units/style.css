@@ -43,6 +43,7 @@ h2 {
 }
 
 h3, li {
+    width: 15em;
     font-family: sans-serif;
     color: var(--green);
     font-size: 25px;
